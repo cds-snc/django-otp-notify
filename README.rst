@@ -1,3 +1,24 @@
+django-otp-notify
+=================
+
+⚠️ Failsafe copy of
+`PierrePaul/django-otp-notify <https://github.com/PierrePaul/django-otp-notify>`__
+⚠️
+
+While `Pierre-Paul <https://github.com/PierrePaul>`__ worked on the
+`COVID Alert Portal
+team <https://github.com/cds-snc/covid-alert-portal>`__, he created this
+package to integrate with `GC
+Notify <https://notification.alpha.canada.ca/>`__ and we've been using
+it ever since. He is the auther/notional maintainer of
+`django-otp-notify on PyPi <https://pypi.org/project/django-otp-notify/>`__,
+which is one of our `Pipfile dependencies <https://github.com/cds-snc/covid-alert-portal/blob/878be36bbaccd662f695d328186136b9c7508efb/Pipfile#L36>`__.
+
+In the unlikely event that the original library disappears, we can
+unarchive this repo and pull it into the Portal as a local dependency.
+
+------------
+
 .. image:: https://img.shields.io/pypi/v/django-otp-notify?color=blue
    :target: https://pypi.org/project/django-otp-notify/
    :alt: PyPI
